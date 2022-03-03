@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #10131c;
+}
+
+.navigation {
+    position: relative;
+    width: 70px;
+    height: 70px;
+    background: #212532;
+    border-radius: 10px;
+    cursor: pointer;
+}
